@@ -1,2 +1,3 @@
-# IBMDSCourseStuff
-This repo is for the purpose of learning from IBM Data Science Course. 
+## IBMDSCourseStuff
+
+This repo contains contents and assignments from the IBM Coursera Certification Program.
