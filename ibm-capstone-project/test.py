@@ -11,3 +11,6 @@ a = 5*4
 b = 5+4
 c = a + b
 print(c)
+
+d = a/b 
+print(d)
