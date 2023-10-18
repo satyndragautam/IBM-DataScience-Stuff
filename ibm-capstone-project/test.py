@@ -15,5 +15,3 @@ print(c)
 d = a/b 
 print(d)
 
-
-"Hello World!"
